@@ -5,8 +5,8 @@
 ## Default variables to use
 export INTERACTIVE=${INTERACTIVE:="true"}
 export PVS=${PVS:="true"}
-export DOMAIN=${DOMAIN:="$(curl -s ipinfo.io/ip).nip.io"}
-export USERNAME=${USERNAME:="$(whoami)"}
+export DOMAIN=${DOMAIN:="dev.camgiess.de"}
+export USERNAME=${USERNAME:="ddtim"}
 export PASSWORD=${PASSWORD:=password}
 export VERSION=${VERSION:="3.11"}
 export SCRIPT_REPO=${SCRIPT_REPO:="https://raw.githubusercontent.com/okd-community-install/installcentos/master"}
