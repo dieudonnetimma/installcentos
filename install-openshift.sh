@@ -5,7 +5,7 @@
 ## Default variables to use
 export INTERACTIVE=${INTERACTIVE:="true"}
 export PVS=${PVS:="true"}
-export DOMAIN=${DOMAIN:="dev.camgiess.de"}
+export DOMAIN=${DOMAIN:="ddmytim.com"}
 export USERNAME=${USERNAME:="ddtim"}
 export PASSWORD=${PASSWORD:=password}
 export VERSION=${VERSION:="3.11"}
